@@ -1,5 +1,3 @@
- # README.final.md:  
-
 ## Description
 
 Feeding Canadian Kids is a non-profit organization that takes in applications from after-school *Programs*, which are in need of food for kids, and *Restaurants*, which are looking to donate food. The *Admins* from Feeding Canadian Kids would then browse new applications and manually fill in the information that a *Restaurant* or *Program* provided into an excel sheet. Then, manually pair them up according to the dates when they can deliver or accept food.
